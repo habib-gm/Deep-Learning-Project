@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook (`sentiment-analysis-notebook.ipynb`
 
 ## Introduction
 
-Sentiment analysis is a natural language processing task that involves determining the sentiment or emotion conveyed in a piece of text. This notebook focuses on sentiment analysis using a custom dataset containing happy and sad sentiments.
+sentiment analysis from human picture task that involves determining the sentiment or emotion conveyed in an image. This notebook focuses on sentiment analysis using a custom dataset containing happy and sad sentiments.
 
 ## Installation
 
